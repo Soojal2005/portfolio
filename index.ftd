@@ -69,7 +69,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm Soojal Bajaj Jain 
-secondTitle: YOUR_Name; SOOJAL BAJAJ JAIN
+secondTitle:  SOOJAL BAJAJ JAIN
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend

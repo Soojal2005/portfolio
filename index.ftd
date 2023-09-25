@@ -19,7 +19,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /YOUR_portfolio_Name
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -68,8 +68,8 @@ spacing.fixed.px: 100
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: I'm
-secondTitle: YOUR_NAME,
+firstTitle: I'm Soojal Bajaj Jain 
+secondTitle: YOUR_Name; SOOJAL BAJAJ JAIN
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -108,23 +108,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/Soojal Bajaj JAin
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/ Soojal2005
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/soojal_19
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:YOUR_EMAIL_ADDRESS bajajsoojal123@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
